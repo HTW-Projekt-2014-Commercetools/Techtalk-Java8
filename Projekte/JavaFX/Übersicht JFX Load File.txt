@@ -1,0 +1,39 @@
+In diesem Dokuement sind alle JavaFX Klassen und ihr jeweils implementierendes JS File, gelistet.
+
+fx:base.js
+	javafx.stage.Stage
+	javafx.scene.Scene
+	javafx.scene.Group
+	javafx/beans
+	javafx/collections
+	javafx/events
+	javafx/util
+
+fx:graphics.js
+	javafx/animation
+	javafx/application
+	javafx/concurrent
+	javafx/css
+	javafx/geometry
+	javafx/print
+	javafx/scene
+	javafx/stage
+
+fx:controls.js
+	javafx/scene/chart
+	javafx/scene/control
+
+fx:fxml.js
+	javafx/fxml
+
+fx:web.js
+	javafx/scene/web
+
+fx:media.js
+	javafx/scene/media
+
+fx:swing.js
+	javafx/embed/swing
+
+fx:swt.js
+	javafx/embed/swt
